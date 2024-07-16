@@ -1,0 +1,42 @@
+form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+.container {
+    margin-top: 40px;
+}
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 15px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.card-header {
+    text-align: center;
+    font-weight: bold;
+    color: #200E3A;
+    background-color: #52D3D8;
+}
+.card {
+    max-width: 800px;
+    border: 1px solid #3887BE;
+}
+.card-body {
+    background-color: #38419D;
+    color: #FFFFFF;
+}
+.card-footer {
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #200E3A;
+}
+.btn-primary {
+    background-color: #3887BE;
+    border-color: #3887BE;
+}
+.table-primary {
+    color: #FFFFFF;
+    background-color: #38419D;
+}
